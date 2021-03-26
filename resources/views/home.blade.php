@@ -47,7 +47,7 @@
                                     </h5>
                                 </div>
                                 <p class="lead text-justify">
-                                    Busco formar parte de un equipo de trabajo para contribuir con mis conocimientos,
+                                    Formar parte de un equipo de trabajo para contribuir con mis conocimientos,
                                     habilidades y asi consolidarme profesionalmente en una empresa.
                                     Además de crecer en el área laboral, personal e intelectual.
                                 </p>
