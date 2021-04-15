@@ -68,8 +68,8 @@
 
                         </li>
                         <li>
-                            <p><strong>URL del proyecto</strong>: <a href="http://laravelnotes.herokuapp.com/"
-                                    target="_blank" style="color: blue">http://laravelnotes.herokuapp.com</a></p>
+                            <p><strong>URL del proyecto</strong>: <a href="https://hidden-thicket-79401.herokuapp.com"
+                                    target="_blank" style="color: blue">https://hidden-thicket-79401.herokuapp.com</a></p>
                         </li>
                     </ul>
                 </div>
