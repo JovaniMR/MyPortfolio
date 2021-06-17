@@ -139,6 +139,14 @@
                     </div>
                 </div>
             </div>
+            <div class="col-sm col-lg-3 work-habilities text-center">
+                <div class="work-img pt-3">
+                    <img src="assets/img/adonis.png" class="img-fluid" style="width: 150px;" alt="adonis">
+                    <div class="counter-num">
+                        <span class="counter-text">Adonis js</span>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div><!-- End habilities Section -->
