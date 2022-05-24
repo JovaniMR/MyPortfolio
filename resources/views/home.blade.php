@@ -27,36 +27,27 @@
             <div class="col-sm-12">
                 <div class="box-shadow-full pt-4 pb-4">
                     <div class="row">
-                        <div class="col-md-4 pt-4">
-                            <div class="row justify-content-center">
-                                <div class="col-sm-6 col-md-5 ">
-                                    <div class="row justify-content-center">
-                                        <div class="about-img" style="width: 170px;">
-                                            <img src="assets/img/yo.jpg" class="img-fluid b-shadow-a ml-0" alt="photo"
-                                                style="border-radius: 50%;">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-8">
+                        <div class="col-md-12">
                             <div class="about-me pt-4 pt-md-0">
                                 <div class="title-box-2">
-                                    <h5 class="title-left">
-                                        Objetivo
+                                    <h5 class="title-left text-center">
+                                        SOBRE MÍ
                                     </h5>
                                 </div>
                                 <p class="lead text-justify">
-                                    Formar parte de un equipo de trabajo para contribuir con mis conocimientos,
-                                    habilidades y asi consolidarme profesionalmente en una empresa.
-                                    Además de crecer en el área laboral, personal e intelectual.
+                                Soy un profesionista con 2 años de experiencia en el desarrollo de aplicaciones web, involucrado en
+actividades de backend, así como de frontend, aplicando distintas tecnologías. Me considero una
+persona enfocada a resultados y habituado a trabajar por objetivos, ademas de autodidacta y con una
+gran facilidad de colaborar y trabajar en equipo.
                                 </p>
-                                <p>
-                                    <a href="{{route('download-cv')}}" style="color: #18567B;">
-                                    <span class="material-icons"
-                                        style="vertical-align: middle;">download</span> 
-                                        Descargar curriculum </a>
-                                </p>
+                                <div class="row">
+                                    <div class="col-lg-12 text-right">
+                                        <a href="{{route('download-cv')}}" style="color: #18567B;">
+                                        <img class="" src="assets/img/pdf.png" class="img-fluid" style="width: 20px;" alt="pdf"> 
+                                            Descargar curriculum 
+                                        </a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -124,10 +115,18 @@
             </div>
             <div class="col-sm col-lg-3 work-habilities text-center">
                 <div class="work-img pt-3">
-                    <img class="bg-white rounded mb-lg-2" src="assets/img/mysql.png" class="img-fluid" style="width: 145px;"
-                        alt="mysql">
+                    <img class="rounded mb-lg-2" src="assets/img/angular.png" class="img-fluid" style="width: 135px;"
+                        alt="angular">
                     <div class="counter-num">
-                        <span class="counter-text">MySQL</span>
+                        <span class="counter-text">Angular</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm col-lg-3 work-habilities text-center">
+                <div class="work-img pt-3">
+                    <img src="assets/img/node.png" class="img-fluid" style="width: 155px;" alt="node">
+                    <div class="counter-num">
+                        <span class="counter-text">Node js</span>
                     </div>
                 </div>
             </div>
@@ -139,11 +138,22 @@
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="row justify-content-center" style="color:white; vertical-align: middle;">
             <div class="col-sm col-lg-3 work-habilities text-center">
                 <div class="work-img pt-3">
-                    <img src="assets/img/adonis.png" class="img-fluid" style="width: 150px;" alt="adonis">
+                    <img class="bg-white rounded mb-lg-2" src="assets/img/mysql.png" class="img-fluid" style="width: 145px;"
+                        alt="mysql">
                     <div class="counter-num">
-                        <span class="counter-text">Adonis js</span>
+                        <span class="counter-text">MySQL</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm col-lg-3  work-habilities text-center mb-lg-4">
+                <div class="work-img pt-3">
+                    <img src="assets/img/mongo.png" class="img-fluid mb-lg-1" style="width: 130px; height: 145px;" alt="vue">
+                    <div class="counter-num">
+                        <p class="counter-text">MongoDB </p>
                     </div>
                 </div>
             </div>
